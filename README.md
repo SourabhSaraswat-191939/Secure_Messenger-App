@@ -1,6 +1,6 @@
 # secure_messenger
 
-A new Flutter project.
+A messenger which is secure. In this app different encryption and decryption alogorithms are used to make it secure.
 
 ## Getting Started
 
